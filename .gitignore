@@ -1,0 +1,16 @@
+
+*.db
+1. Getting Started with C++/myfirst/.vs/myfirst/v15/.suo
+*.log
+*.exe
+*.ipch
+*.xml
+*.tlog
+*.pdb
+*.idb
+*.obj
+*.ilk
+*.opendb
+*.json
+*.sqlite
+*.lastcodeanalysissucceeded
